@@ -1,0 +1,29 @@
+html{
+    
+}
+body{
+    
+}
+main{
+    
+}
+header{
+    
+}
+.vl {
+    border-left: 6px groove darkgreen;
+    height: 950px;
+    margin-left:480px;
+    margin-top:4px;
+    margin-bottom:4px;
+}
+.NInfo{
+    float:left;
+    border-style: double;
+    border-width:4px;
+    border-color:green;
+    display:block;
+    border-radius:6px;
+    width: 460px;
+    height: 340px;
+}
