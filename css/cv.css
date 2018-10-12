@@ -25,5 +25,13 @@ header{
     display:block;
     border-radius:6px;
     width: 460px;
-    height: 340px;
+    height: 355px;
+}
+.namn{
+    text-align:right;
+    font-family:'Playfair Display', serif;
+    font-size:16px;
+}
+img{
+    
 }
