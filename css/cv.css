@@ -2,8 +2,8 @@ body{
     background-image: url(../bild/background.jpg);
 }
 main{
-    width: auto; 
-    margin-left: 27%;
+    width: 66%; 
+    margin-left: 35.5%;
     border-left: 8px double green;
 }
 aside{
@@ -11,18 +11,15 @@ aside{
     border: 4px dotted green;
     display: block;
     border-radius: 6px;
+    width: 34%;
     text-align: center;
-}
-.namn{
-    font-size: 40px;
-    margin-right:7.6px;
-    font-family: 'Inconsolata', monospace;
-}
-.info{
-    margin-left: 9px;
 }
 img{
     border-radius: 22px;
+    margin-top: 10px;
+}
+strong{
+ font-family: 'Roboto Slab', serif;
 }
 u{
     font-size: 56px;
@@ -30,4 +27,21 @@ u{
 }
 p{
     font-family: 'Slabo 27px', serif;
+    margin: 0px;
+}
+.namn{
+    font-size: 40px;
+    margin-right:7.6px;
+    font-family: 'Inconsolata', monospace;
+}
+.infoText{
+    margin-left: 12px;
+}
+.nameSubtext{
+    font-size: 25px;
+}
+.infoBox{
+    border: 2px dotted green;
+    font-size: 26px;
+    width: 560px;
 }
