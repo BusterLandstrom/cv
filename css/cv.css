@@ -4,10 +4,11 @@ body{
 }
 main{
     width: 66%; 
-    margin-left: 35.5%;
+    margin-left:45%;
     border-left: 8px double green;
 }
 aside{
+    margin-left: 200px;
     float: left;
     border: 4px dotted green;
     display: block;
