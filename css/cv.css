@@ -4,14 +4,14 @@ body{
 }
 main{
     width: 66%; 
-    margin-left:45%;
+    margin-left:47%;
     border-left: 8px double green;
 }
 h2{
-    font-size: 1px;
+    font-size: 38px;
 }
 aside{
-    margin-left: 200px;
+    margin-left: 236px;
     float: left;
     border: 4px dotted green;
     display: block;
@@ -26,11 +26,8 @@ img{
 strong{
  font-family: 'Roboto Slab', serif;
 }
-.margintop{
-    margin-top: 89px;
-}
 u{
-    font-size: 49px;
+    font-size: 60px;
     font-family: 'Playfair', serif;
 }
 p{
@@ -51,7 +48,7 @@ p{
 .infoBox{
     border: 2px dotted green;
     font-size: 26px;
-    width: 750px;
+    width: 770px;
 }
 .container{
     width: 40%;
