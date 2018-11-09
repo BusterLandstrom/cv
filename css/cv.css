@@ -49,6 +49,7 @@ p{
 }
 .container{
     width: 40%;
+    border-radius: 4px;
     display: inline-block;
     background-color: white;
 }
@@ -58,11 +59,11 @@ p{
     color: white;
 }
 .j {
-    width: 100%; background-color: green;
+    width: 100%; background-color: green; border-radius: 4px;
 }
 .cs{
-    width: 100%; background-color: turquoise;
+    width: 100%; background-color: turquoise; border-radius: 4px;
 }
 .html{
-    width: 90%; background-color: blue;
+    width: 90%; background-color: blue; border-radius: 4px;
 }
