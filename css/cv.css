@@ -62,7 +62,7 @@ p{
     color: white;
 }
 .j {
-    width: 100%; background-color: green; border-radius: 4px;
+    width: 100%; background-color: limegreen; border-radius: 4px;
 }
 .cs{
     width: 100%; background-color: turquoise; border-radius: 4px;
@@ -71,7 +71,7 @@ p{
     width: 90%; background-color: blue; border-radius: 4px;
 }
 .english{
-    width: 100%; background-color: purple; border-radius: 4px;
+    width: 100%; background-color: mediumpurple; border-radius: 4px;
 }
 .swedish{
     width: 100%; background-color: pink; border-radius: 4px;
