@@ -73,3 +73,9 @@ p{
 .html{
     width: 90%; background-color: blue; border-radius: 4px;
 }
+.english{
+    width: 100%; background-color: purple; border-radius: 4px;
+}
+.swedish{
+    width: 100%; background-color: pink; border-radius: 4px;
+}
