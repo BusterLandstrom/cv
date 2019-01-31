@@ -62,10 +62,10 @@ p{
     color: white;
 }
 .j {
-    width: 100%; background-color: limegreen; border-radius: 4px;
+    width: 100%; background-color: darkgreen; border-radius: 4px;
 }
 .cs{
-    width: 100%; background-color: turquoise; border-radius: 4px;
+    width: 100%; background-color: darkorange; border-radius: 4px;
 }
 .html{
     width: 90%; background-color: blue; border-radius: 4px;
